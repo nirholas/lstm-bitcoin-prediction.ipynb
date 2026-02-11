@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use lstm-bitcoin-prediction.ipynb, please cite it as below."
+type: software
+title: "lstm-bitcoin-prediction.ipynb"
+abstract: "lstm-bitcoin-prediction"
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/lstm-bitcoin-prediction.ipynb"
+url: "https://github.com/nirholas/lstm-bitcoin-prediction.ipynb"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas

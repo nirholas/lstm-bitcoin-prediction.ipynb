@@ -1,0 +1,18 @@
+# lstm-bitcoin-prediction.ipynb
+
+> lstm-bitcoin-prediction
+
+## Overview
+
+lstm-bitcoin-prediction.ipynb is an open-source project by nirholas. lstm-bitcoin-prediction
+
+## Repository
+
+- URL: https://github.com/nirholas/lstm-bitcoin-prediction.ipynb
+- Language: Jupyter Notebook
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.

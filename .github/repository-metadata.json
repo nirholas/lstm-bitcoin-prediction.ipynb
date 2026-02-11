@@ -1,0 +1,16 @@
+{
+    "name": "lstm-bitcoin-prediction.ipynb",
+    "description": "lstm-bitcoin-prediction",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/lstm-bitcoin-prediction.ipynb",
+    "language": "Jupyter Notebook",
+    "topics": [
+        "bitcoin",
+        "lstm",
+        "nirholas",
+        "ipynb",
+        "open-source",
+        "prediction"
+    ]
+}
