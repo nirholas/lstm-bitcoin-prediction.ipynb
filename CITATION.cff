@@ -2,13 +2,13 @@ cff-version: 1.2.0
 message: "If you use lstm-bitcoin-prediction.ipynb, please cite it as below."
 type: software
 title: "lstm-bitcoin-prediction.ipynb"
-abstract: "lstm-bitcoin-prediction"
+abstract: "Jupyter notebook training an LSTM neural network to predict daily Bitcoin (BTC/USD) closing prices from CryptoCompare historical data."
 authors:
   - alias: nirholas
     name: nirholas
 repository-code: "https://github.com/nirholas/lstm-bitcoin-prediction.ipynb"
 url: "https://github.com/nirholas/lstm-bitcoin-prediction.ipynb"
-license: MIT
+license-url: "https://github.com/nirholas/lstm-bitcoin-prediction.ipynb/blob/main/LICENSE"
 version: "1.0.0"
 date-released: "2026-02-11"
 keywords:

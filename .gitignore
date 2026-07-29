@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Environment
+.env
+.env.local
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
