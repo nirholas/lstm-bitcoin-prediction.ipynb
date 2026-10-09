@@ -63,3 +63,7 @@ This is a machine-learning exercise, not financial advice. Predicting price from
 ## License
 
 See [LICENSE](LICENSE). Copyright 2026 nirholas, all rights reserved.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/lstm-bitcoin-prediction.ipynb&type=Date)](https://www.star-history.com/#nirholas/lstm-bitcoin-prediction.ipynb&Date)
