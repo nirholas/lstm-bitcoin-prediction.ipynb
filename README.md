@@ -1,5 +1,10 @@
 # lstm-bitcoin-prediction.ipynb
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/lstm-bitcoin-prediction.ipynb?style=flat&logo=github)](https://github.com/nirholas/lstm-bitcoin-prediction.ipynb/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/lstm-bitcoin-prediction.ipynb?style=flat)](https://github.com/nirholas/lstm-bitcoin-prediction.ipynb/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/lstm-bitcoin-prediction.ipynb/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/lstm-bitcoin-prediction.ipynb/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 A single Jupyter notebook that trains an LSTM neural network to predict the daily closing price of Bitcoin (BTC/USD), then compares the model's predicted daily returns against the actual ones.
 
 The notebook is self-contained: it downloads its own data at run time, trains the model, and plots the results.
@@ -67,3 +72,26 @@ See [LICENSE](LICENSE). Copyright 2026 nirholas, all rights reserved.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/lstm-bitcoin-prediction.ipynb&type=Date)](https://www.star-history.com/#nirholas/lstm-bitcoin-prediction.ipynb&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If lstm-bitcoin-prediction.ipynb saves you time, **[star it on GitHub](https://github.com/nirholas/lstm-bitcoin-prediction.ipynb)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=lstm-bitcoin-prediction.ipynb%3A%20lstm-bitcoin-prediction&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Flstm-bitcoin-prediction.ipynb) · [Share on Bluesky](https://bsky.app/intent/compose?text=lstm-bitcoin-prediction.ipynb%3A%20lstm-bitcoin-prediction%20https%3A%2F%2Fgithub.com%2Fnirholas%2Flstm-bitcoin-prediction.ipynb) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Flstm-bitcoin-prediction.ipynb) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Flstm-bitcoin-prediction.ipynb&t=lstm-bitcoin-prediction.ipynb%3A%20lstm-bitcoin-prediction) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Flstm-bitcoin-prediction.ipynb&title=lstm-bitcoin-prediction.ipynb%3A%20lstm-bitcoin-prediction)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/lstm-bitcoin-prediction.ipynb` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/lstm-bitcoin-prediction.ipynb/issues) or [start a discussion](https://github.com/nirholas/lstm-bitcoin-prediction.ipynb/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/lstm-bitcoin-prediction.ipynb)](https://github.com/nirholas/lstm-bitcoin-prediction.ipynb/graphs/contributors)
+
+<!-- /three.ws:growth -->
